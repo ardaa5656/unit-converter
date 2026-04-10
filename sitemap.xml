@@ -1,83 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-​<urlset xmlns="[şüpheli bağlantı kaldırıldı]">
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/</loc>
-<changefreq>daily</changefreq>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Duzunluk</loc>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dagirlik</loc>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dsicaklik</loc>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Ddoviz</loc>
-<changefreq>hourly</changefreq>
-<priority>0.9</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dkripto</loc>
-<changefreq>hourly</changefreq>
-<priority>0.9</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dveri</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dzaman</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dbasinc</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Denerji</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dhiz</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dyakit</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dalan</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dhacim</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Daci</loc>
-<changefreq>monthly</changefreq>
-<priority>0.6</priority>
-</url>
-<url>
-<loc>https://www.google.com/search?q=https://www.sizindomain.com/%3Ftool%3Dfrekans</loc>
-<changefreq>monthly</changefreq>
-<priority>0.6</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=doviz</loc>
+      <changefreq>hourly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=kripto</loc>
+      <changefreq>hourly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=uzunluk</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=agirlik</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=sicaklik</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=mutfak</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=kan_sekeri</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=veri</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=veri_hizi</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=zaman</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=frekans</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=guc</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=kuvvet</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=tork</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=enerji</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=basinc</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=isik</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=hiz</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=yakit</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=alan</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=hacim</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://ardaa5656.github.io/birimbaz/?tool=aci</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
 </urlset>
