@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /admin/
-​Sitenizi yayınladığınızda domain adınızı güncelleyin
-​Sitemap: https://www.google.com/search?q=https://www.sizindomain.com/sitemap.xml
+
+Sitemap: https://ardaa5656.github.io/birimbaz/sitemap.xml
